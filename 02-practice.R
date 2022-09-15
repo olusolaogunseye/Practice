@@ -50,3 +50,6 @@ git commit -m "initialize cleaning script"
 #To see if the commit was successful, use git log
 git log
 # I'm loving this
+#September 13, 2022 notes
+#Ignoring files
+# cat ~/.ssh/id_ed25519.pub
