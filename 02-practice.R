@@ -53,3 +53,4 @@ git log
 #September 13, 2022 notes
 #Ignoring files
 # cat ~/.ssh/id_ed25519.pub
+# September 15, 2022
